@@ -1,19 +1,25 @@
-<!-- 🔥 GitHub Stats -->
+<!-- 🏆 PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Behruz</h1>
+<h3 align="center">Backend (Java, Python) | Frontend (HTML, CSS) 🚀</h3>
+
+---
+
+<!-- 📊 MAIN STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Behruz-Coder&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Behruz-Coder&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- 📊 Top Languages -->
+<!-- 🔥 STREAK -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behruz-Coder&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Behruz-Coder&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- 🔥 GitHub Streak -->
+<!-- 🏆 TROPHIES -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Behruz-Coder&theme=dark&hide_border=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Behruz-Coder&theme=onestar&no-bg=true&margin-w=15&margin-h=15&row=1" />
 </p>
 
-<!-- 🏆 GitHub Trophy -->
+<!-- 💻 TOP LANGUAGES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Behruz-Coder&theme=onestar&no-bg=true&row=1&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behruz-Coder&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
