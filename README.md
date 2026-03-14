@@ -1,1 +1,1 @@
-![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=Behruz-Coder&rank=SECRET&wantAll=true)
+![trophy](https://github-trophies.vercel.app/?username=Behruz-Coder&theme=radical)
