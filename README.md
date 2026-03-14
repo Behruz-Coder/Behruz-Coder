@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Behruz</h1>
 <h3 align="center">Software Engineer | Backend (Java, Python) | Frontend (HTML, CSS) 🚀</h3>
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Behruz-Coder&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
