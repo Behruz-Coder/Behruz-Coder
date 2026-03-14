@@ -1,1 +1,1 @@
-![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Behruz-Coder)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Behruz-Coder&show_icons=true)
