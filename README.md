@@ -7,33 +7,33 @@
 - 💻 I love coding and building cool projects  
 - 🌱 Currently learning: Advanced Java + Backend Development  
 - 🎯 Goal: Become a top-tier software engineer  
-- ⚡ Fun fact: I turn coffee ☕ into code
+- ⚡ Fun fact: I turn coffee ☕ into code  
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode" />
-
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Behruz-Coder&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Behruz-Coder&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Behruz-Coder&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Behruz-Coder&theme=tokyonight" />
-</p>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behruz-Coder&layout=compact&theme=tokyonight"/>
 
-### 🔥 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behruz-Coder&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Behruz-Coder&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ---
 
-### ⚡ Quote of the Day
+### ⚡ Quote
 > “Code is like humor. When you have to explain it, it’s bad.” 😄
 
 ---
