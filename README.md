@@ -4,9 +4,9 @@
 ---
 
 ### 🧠 About Me
-- 💻 I love coding and building cool projects  
-- 🌱 Currently learning: Advanced Java + Backend Development  
-- 🎯 Goal: Become a top-tier software engineer  
+- 💻 I love building cool projects  
+- 🌱 Currently learning Backend + Advanced Java  
+- 🎯 Goal: Become a top software engineer  
 - ⚡ Fun fact: I turn coffee ☕ into code  
 
 ---
@@ -18,11 +18,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Dashboard
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Behruz-Coder&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=Behruz-Coder&theme=tokyonight&no-frame=true&row=2&column=3"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Behruz-Coder&theme=tokyonight"/>
 
@@ -30,9 +30,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behruz-Coder&layout=compact&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Behruz-Coder&theme=tokyo-night"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Behruz-Coder&theme=tokyonight"/>
 
 </p>
 
@@ -53,11 +53,5 @@
 
 ---
 
-### ⚡ Quote
-> “Code is like humor. When you have to explain it, it’s bad.” 😄
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+🔥;Always+learning+new+things..." />
-</p>
+### ⚡ Quote of the Day
+> “First, solve the problem. Then, write the code.” 😄
