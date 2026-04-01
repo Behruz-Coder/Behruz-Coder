@@ -1,54 +1,57 @@
-<h1 align="center">Hi 👋, I'm Behruz</h1>
-<h3 align="center">🚀 Full Stack Developer | Java • Python • Frontend</h3>
+# Salom, Men Behruzbek! 👋 
 
----
-
-### 🧠 About Me
-- 💻 I love coding and building cool projects  
-- 🌱 Currently learning: Advanced Java + Backend Development  
-- 🎯 Goal: Become a top-tier software engineer  
-- ⚡ Fun fact: I turn coffee ☕ into code
-
----
-
-### 🚀 Tech Stack
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=150&section=header&text=Python%20Backend%20Developer&fontSize=40" />
 </p>
 
+### 👨‍💻 Men haqimda:
+
+Men **Behruzbek Qodirberganov**, dasturlash olamida o'z yo'lini qurayotgan **Python Backend Developer**man. Hozirda backend texnologiyalari, algoritmlar va veb-ilovalarni yaratish ustida ishlayapman.
+
+- 🚀 Hozirda **Python** va **React** texnologiyalarini chuqurroq o'rganyapman.
+- 🛠 **Supabase** va **Tailwind CSS** bilan ishlash tajribasiga egaman.
+- 🎮 Bo'sh vaqtimda **Minecraft** serverlari va modifikatsiyalari bilan qiziqaman.
+- 📈 Maqsadim: Kuchli va optimallashgan tizimlar yaratish.
+
 ---
 
-### 📊 GitHub Stats
+### 🛠 Texnologiyalar:
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Behruz-Coder&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/Behruz-Coder">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://t.me/">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,react,java,supabase,tailwind,git" />
   </a>
 </p>
 
 ---
 
-### ⚡ Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” 😄
+### 📊 Github Statistikam:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Behruz-Coder&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behruz-Coder&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
+### 🔥 Aktivlik:
+
+![Behruz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Behruz-Coder&theme=tokyonight)
+
+---
+
+### 📫 Men bilan bog'lanish:
+
+<p align="left">
+  <a href="https://linkedin.com/in/Behruzbek-Qodirberganov" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/Behruz_Coder" target="blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+🔥;Always+learning+new+things..." />
+  <img src="https://komarev.com/ghpvc/?username=Behruz-Coder&color=blue&style=flat-square&label=Profilimni+ko'rganlar" />
 </p>
