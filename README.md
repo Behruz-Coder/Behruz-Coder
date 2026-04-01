@@ -13,24 +13,27 @@ Dasturlash olamida o'z yo'lini borayotgan g'ayratli **Full-Stack Learner Develop
 
 ### 🛠 Texnologiyalar va Vositalar
 
-Siz so'ragan aniq ro'yxat bo'yicha:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,py,git,github,vscode,intellij" alt="My Skills" />
-  </a>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Mening GitHub Statistikam
+### 🚀 Loyihalar va Maqsadlar
 
-*(Eslatma: Agar statistika ko'rinmasa, profilingizda kamida bitta Public repozitoriya borligiga ishonch hosil qiling)*
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Behruz-Coder&show_icons=true&theme=tokyonight&locale=en" alt="Behruz's Stats" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behruz-Coder&layout=compact&theme=tokyonight&hide=javascript,typescript" alt="Top Languages" />
-</p>
+* 🐍 **Backend:** Python va Django/FastAPI bilan ishlash.
+* ☕ **Enterprise:** Java yordamida mustahkam tizimlar yaratish.
+* 💻 **Frontend:** HTML va CSS orqali chiroyli interfeyslar.
 
 ---
 
